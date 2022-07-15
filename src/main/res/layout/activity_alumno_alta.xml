@@ -30,7 +30,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/txtMatricula"
-            android:hint="Ej: 2019030286"
+            android:hint="Ej: 2019030369"
             android:textStyle="italic">
         </EditText>
         <TextView
